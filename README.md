@@ -19,7 +19,7 @@ SHOW PAGE-
 EDIT PAGE-
 ![alt text](https://github.com/ritikks/campgrounds/blob/main/campgrounds-images-preview/edit-page.png)
 
-UPDATE PAGE-
+UPLOAD NEW CAMPGROUND PAGE-
 ![alt text](https://github.com/ritikks/campgrounds/blob/main/campgrounds-images-preview/new-campground.png)
 
 
